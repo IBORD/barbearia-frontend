@@ -9,7 +9,7 @@ import ProductStock from './components/productStock/productStock.jsx';
 import Barber from './components/barber/barber.jsx';
 import LoyaltyCardForm from './components/loyaltyCard/LoyaltyCardForm.jsx';
 import ServiceForm from './components/service/serviceForm.jsx'; 
-import LoyaltyCard from './components/loyaltyCard/LoyaltyCard.jsx'; 
+import LoyaltyCard from './components/loyaltyCard/loyaltyCard.jsx'; 
 import './global.css';
 
 const router = createBrowserRouter([
